@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+<category> 
+<pattern>HI</pattern> 
+<template>Hello, ABS Team !</template> 
+</category>
+
+<category>
+    <pattern>Who are the faculty members in HR domain at ABS</pattern>
+    <template>Dr Jeyavelu and Dr Arul</template>
+</category>
+<category>
+    <pattern>Who are the faculty members in Marketing domain at ABS</pattern>
+    <template>Dr Raksha</template>
+</category>
+<category>
+    <pattern>Who are the faculty members in Operations domain at ABS</pattern>
+    <template>Mr Abhilash</template>
+</category>
+<category>
+    <pattern>Who are the faculty members in Finance domain at ABS</pattern>
+    <template>Mr DP Samantha</template>
+</category>
+<category>
+    <pattern>Who are the faculty members in Economics at ABS</pattern>
+    <template>Dr Shreya</template>
+</category>
+<category>
+    <pattern>Whom to contact for queries and further information</pattern>
+    <template>Lakshmi mam</template>
+</category>
+</aiml>
+
+
