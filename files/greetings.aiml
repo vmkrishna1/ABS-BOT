@@ -12,7 +12,7 @@
 </category>
 <category>
     <pattern>Who are the faculty members in Marketing domain at ABS</pattern>
-    <template>Dr Raksha</template>
+    <template>Mani Krishna and Raksha</template>
 </category>
 <category>
     <pattern>Who are the faculty members in Operations domain at ABS</pattern>
@@ -29,6 +29,10 @@
 <category>
     <pattern>Whom to contact for queries and further information</pattern>
     <template>Lakshmi mam</template>
+</category>
+<category>
+    <pattern>Program Name</pattern>
+    <template>MBA</template>
 </category>
 </aiml>
 
